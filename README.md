@@ -1,5 +1,5 @@
 Pipeline:
-1. Objective: select the points that will become the corners of the polygon.
+1. Goal: select the points that will become the corners of the polygon.
 input: processed mask, depth map.
 Output: points selected as corners of the polygon.
 
